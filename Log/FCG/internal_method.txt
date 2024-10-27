@@ -1,0 +1,14 @@
+{'invoke-direct', 'return-void'}
+{'invoke-static', 'return-void', 'invoke-super', 'const-string'}
+{'move-result-object', 'const-string', 'invoke-static', 'invoke-direct', 'invoke-virtual', 'new-instance', 'if-nez', 'const/16', 'return-void', 'move-result'}
+{'invoke-direct', 'return-void'}
+{'move-result-object', 'invoke-static', 'invoke-virtual', 'const/4', 'goto', 'move-exception', 'return-object'}
+{'move-result-object', 'invoke-static', 'invoke-virtual', 'const/4', 'goto', 'move-exception', 'return-object'}
+{'move-result-object', 'invoke-static', 'invoke-virtual', 'const/4', 'goto', 'move-exception', 'return-object'}
+{'move-result-object', 'if-eqz', 'invoke-static', 'const/16', 'invoke-virtual', 'if-nez', 'const/4', 'goto', 'iget-object', 'move-exception', 'return-object'}
+{'move-result-object', 'invoke-static', 'const-string', 'invoke-direct', 'invoke-virtual', 'invoke-interface', 'const/4', 'new-instance', 'check-cast', 'return-void', 'iget-object', 'new-array'}
+{'move-result-object', 'invoke-static', 'invoke-virtual', 'const/4', 'goto', 'return-void', 'move-exception'}
+{'move-result-object', 'if-eqz', 'invoke-static', 'const-string', 'aput-object', 'invoke-virtual', 'invoke-interface', 'const/4', 'sget-object', 'check-cast', 'goto', 'return-void', 'iput-object', 'const-class', 'move-result', 'new-array'}
+{'move-result-object', 'invoke-direct', 'new-instance', 'invoke-virtual', 'goto', 'return-void', 'move-exception'}
+{'int-to-byte', 'aput-byte', 'sub-int/2addr', 'aget-byte', 'invoke-virtual', 'add-int/lit8', 'const/4', 'goto', 'rem-int', 'move-exception', 'xor-int/2addr', 'array-length', 'return-object', 'if-ge', 'move-result', 'new-array'}
+{'move-result-object', 'invoke-virtual', 'const/4', 'goto', 'move-exception', 'return-object'}

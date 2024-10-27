@@ -1,0 +1,1128 @@
+Graph(num_nodes=23, num_edges=77,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=26, num_edges=82,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=19, num_edges=63,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=23, num_edges=77,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=17, num_edges=55,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=20, num_edges=66,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=25, num_edges=81,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=19, num_edges=63,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=28, num_edges=94,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=17, num_edges=55,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=15, num_edges=49,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=12, num_edges=38,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=21, num_edges=65,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=23, num_edges=77,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=17, num_edges=55,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=25, num_edges=81,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=21, num_edges=69,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=19, num_edges=63,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=20, num_edges=64,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=21, num_edges=65,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=15, num_edges=49,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=20, num_edges=66,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=22, num_edges=72,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=20, num_edges=66,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=22, num_edges=72,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=22, num_edges=72,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=16, num_edges=50,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=16, num_edges=50,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=16, num_edges=50,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=15, num_edges=49,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=20, num_edges=64,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=12, num_edges=38,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=22, num_edges=72,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=15, num_edges=49,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=20, num_edges=66,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=20, num_edges=64,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=20, num_edges=66,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=19, num_edges=63,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=26, num_edges=86,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=24, num_edges=74,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=22, num_edges=72,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=22, num_edges=72,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=19, num_edges=63,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=23, num_edges=75,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=22, num_edges=72,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=13, num_edges=39,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=22, num_edges=72,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=17, num_edges=55,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=24, num_edges=74,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=12, num_edges=38,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=21, num_edges=65,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=22, num_edges=72,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=12, num_edges=38,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=20, num_edges=64,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=13, num_edges=41,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=28, num_edges=94,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=22, num_edges=72,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=22, num_edges=72,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=21, num_edges=69,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=17, num_edges=55,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=17, num_edges=55,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=18, num_edges=58,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=18, num_edges=56,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=17, num_edges=55,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=23, num_edges=77,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=27, num_edges=93,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=17, num_edges=55,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=13, num_edges=39,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=23, num_edges=77,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=17, num_edges=55,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=23, num_edges=73,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=23, num_edges=77,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=22, num_edges=72,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=24, num_edges=74,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=23, num_edges=73,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=17, num_edges=55,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=17, num_edges=53,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=17, num_edges=55,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=19, num_edges=63,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=17, num_edges=55,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=12, num_edges=36,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=23, num_edges=77,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=22, num_edges=72,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=17, num_edges=55,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=20, num_edges=64,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=19, num_edges=63,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=16, num_edges=50,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=26, num_edges=86,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=26, num_edges=86,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=19, num_edges=61,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=19, num_edges=61,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=17, num_edges=55,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=21, num_edges=65,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=25, num_edges=83,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=23, num_edges=77,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=19, num_edges=59,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=17, num_edges=55,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=23, num_edges=71,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=20, num_edges=64,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=20, num_edges=66,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=23, num_edges=77,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=19, num_edges=61,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=28, num_edges=90,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=26, num_edges=86,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=16, num_edges=52,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=23, num_edges=77,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=18, num_edges=56,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=17, num_edges=55,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=19, num_edges=63,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=12, num_edges=36,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=25, num_edges=81,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=16, num_edges=52,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=23, num_edges=77,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=23, num_edges=77,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=16, num_edges=52,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=20, num_edges=64,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=23, num_edges=77,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=25, num_edges=83,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=19, num_edges=63,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=23, num_edges=77,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=19, num_edges=63,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=19, num_edges=59,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=25, num_edges=81,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=18, num_edges=58,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=15, num_edges=49,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(0)
+
+
+Graph(num_nodes=16, num_edges=50,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=24, num_edges=74,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=11, num_edges=33,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=13, num_edges=39,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=16, num_edges=50,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=10, num_edges=30,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=21, num_edges=65,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=13, num_edges=41,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=17, num_edges=53,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=11, num_edges=33,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=14, num_edges=42,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=11, num_edges=33,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=19, num_edges=59,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=11, num_edges=33,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=21, num_edges=67,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=11, num_edges=33,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=13, num_edges=41,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=11, num_edges=33,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=11, num_edges=33,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=20, num_edges=64,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=12, num_edges=36,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=11, num_edges=33,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=13, num_edges=41,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=13, num_edges=41,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=12, num_edges=36,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=12, num_edges=38,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=14, num_edges=42,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=12, num_edges=38,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=14, num_edges=42,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=11, num_edges=33,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=22, num_edges=70,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=22, num_edges=68,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=11, num_edges=33,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=11, num_edges=33,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=14, num_edges=44,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=13, num_edges=39,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=12, num_edges=38,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=16, num_edges=52,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=13, num_edges=41,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=13, num_edges=41,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=13, num_edges=41,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=14, num_edges=44,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=15, num_edges=47,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=15, num_edges=47,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=13, num_edges=41,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=13, num_edges=41,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=13, num_edges=41,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=14, num_edges=44,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=11, num_edges=33,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=11, num_edges=33,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=16, num_edges=50,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=16, num_edges=50,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=14, num_edges=44,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=16, num_edges=50,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=10, num_edges=30,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=16, num_edges=50,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=16, num_edges=50,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=16, num_edges=50,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=11, num_edges=33,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=12, num_edges=36,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=13, num_edges=41,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=13, num_edges=41,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
+Graph(num_nodes=12, num_edges=38,
+      ndata_schemes={'label': Scheme(shape=(), dtype=torch.int64), 'attr': Scheme(shape=(7,), dtype=torch.float32)}
+      edata_schemes={})
+label: tensor(1)
+
+
